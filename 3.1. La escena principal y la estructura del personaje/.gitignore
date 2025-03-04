@@ -1,0 +1,12 @@
+# Archivos innecesarios de Unity
+Library/
+Temp/
+Logs/
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.meta
+*.asset

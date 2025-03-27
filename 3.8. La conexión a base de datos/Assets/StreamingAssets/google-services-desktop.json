@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419925459017",
+    "project_id": "pixel-world-0",
+    "storage_bucket": "pixel-world-0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419925459017:android:86f0a18cd49e373b44ff98",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Pixelworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKnNSpVXu2rvlGa5bUvWT_LqOCMUSItw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

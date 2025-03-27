@@ -10,4 +10,5 @@ MemoryCaptures/
 *.pidb
 *.meta
 *.asset
-
+*.bundle
+*.so
